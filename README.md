@@ -16,8 +16,6 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 
 ## Profile Overview
 
-![Profile views](https://gpvc.arturio.dev/mrashid5919)<br />
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrashid5919&show_icons=true&theme=nightowl)<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrashid5919&langs_count=3)
 
@@ -26,7 +24,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 | Competition Name|2020|2021| 2022 | 2023 |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :--: | :--: |
 | <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC                                |  -  | Dhaka Regionals Preliminary <br /> Team : BUET_MAD_Thugs <br /> Rank: 706/1324 |  -   |  -   |
-| <img width="120px" src="https://scontent.fdac23-1.fna.fbcdn.net/v/t1.6435-9/136412646_155717656350653_7942200701783552032_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=825194&_nc_ohc=C8nM2ddBo4EAX82tG4l&_nc_ht=scontent.fdac23-1.fna&oh=7902d6b124e85ec163b85a1710494b1f&oe=609D6455" /> <br />Google KickStart Best Rank |  -  | Rank: 2541 <br/> in Round B  |  -   |  -   |
+| <img width="120px" src="https://lh3.googleusercontent.com/proxy/3KkQMurRZdVIuu8O1kQx-Ua4m2yv9y9P-c6YTYy4dG_Qjz98pxHz4G80iHjqZE6TKwm92MJbUMF60lGY7xIwJ3nJqoy_YV-OsNVCqQd7-fMyR8cVF-Z-2fAcw6nX-GFYt8hCsEykYwYSiUR7Y6KH8gNPID0Tero7dxBpuw5iysYmTfNCScb3AtBAkKH9nJ3iuPFGCNAl" /> <br />Google KickStart Best Rank |  -  | Rank: 2541 <br/> in Round B  |  -   |  -   |
 | <img width="120px" src="https://lh5.googleusercontent.com/QBCvB6fytcv69bBk06xwpU37QYoOe8fBbp50RQTKJY9U-IZJFedd_sj8EVxhWnxyPelanylpGHO1pwsbYMFzxWenqzaBtvSVmBham69z4LWu6xpILANQk-mvpC-SPrJNKsC-7dvUzw" /> <br />Google Code Jam to I/O for Women |  -  | Rank: 747 |  -   |  -   | 
 | <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Max Rank|  1307 <br /> ![](https://img.shields.io/badge/-Pupil-brightgreen?style=flat)  |  -  |  -   |  -   |
 
