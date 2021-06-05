@@ -10,7 +10,8 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 
 ## Tools
 
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <br />
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![Atom](https://img.shields.io/badge/-Atom-000000?style=flat&logo=atom)
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word) <br />
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 
