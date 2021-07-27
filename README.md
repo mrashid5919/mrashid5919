@@ -19,7 +19,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 ## Profile Overview
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrashid5919&show_icons=true&theme=nightowl)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrashid5919&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Programming Performances
 
