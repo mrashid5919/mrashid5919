@@ -30,7 +30,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 | <img width="120px" src="https://lh3.googleusercontent.com/proxy/LZuJ0WzZcX1Ya1zMX9D5EM5pDKDRW9p_uL9ur9TcpllL-YK2aPMpColVpz-QlAyQ9BoZOx76YfeuylyIDzSYdwqBw4w_xPjmXmOzq9E39J64P_TtADaeuZoDZzFE9xHZ9guw_ImnLmQhSGbab_u3W4nXK6tpYe2Xh6EmQ2zqUTXVryIZiJmCSuwmOkXnnjSZBGMGgURV" /> <br />Google KickStart Best Rank |  -  | Rank: 1788 <br/> in Round H  |  -   |  -   |
 | <img width="120px" src="https://lh5.googleusercontent.com/QBCvB6fytcv69bBk06xwpU37QYoOe8fBbp50RQTKJY9U-IZJFedd_sj8EVxhWnxyPelanylpGHO1pwsbYMFzxWenqzaBtvSVmBham69z4LWu6xpILANQk-mvpC-SPrJNKsC-7dvUzw" /> <br />Google Code Jam to I/O for Women |  -  | Rank: 747 |  -   |  -   | 
 | <img width="120px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Facebook_Hacker_Cup.png" /> <br />Facebook HackerCup |  -  | Round 2 <br /> Rank: 2826/6789 |  -   |  -   |
-| <img width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DoufguaX-CBfO4_O07P6E_t9jSd-1uNDqm8sbk0JjQnG8unILMPY9ZnfigoXohiF8A&usqp=CAU" /> <br />CF Max Rank|  1307 <br /> ![](https://img.shields.io/badge/-Pupil-brightgreen?style=flat)  |  1397 <br /> ![](https://img.shields.io/badge/-Pupil-brightgreen?style=flat)   |  -   |  -   |
+| <img width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DoufguaX-CBfO4_O07P6E_t9jSd-1uNDqm8sbk0JjQnG8unILMPY9ZnfigoXohiF8A&usqp=CAU" /> <br />CF Max Rank|  1307 <br /> ![](https://img.shields.io/badge/-Pupil-brightgreen?style=flat)  |  1424 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  -   |  -   |
 
 ## Connect with me:
 
