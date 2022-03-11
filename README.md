@@ -38,10 +38,10 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 
 [<img align="left" alt="Mayesha Rashid" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
 [<img align="left" alt="Mayesha Rashid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mayesha Rashid | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Mayesha Rashid | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Mayesha Rashid | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
 [website]: https://github.com/mrashid5919
-[facebook]: https://www.facebook.com/mayesha.rashid.3
+[youtube]: https://www.youtube.com/channel/UCJf7gqkFDqzYsMufdnh3I8g
 [codeforces]: https://codeforces.com/profile/rashidmayesha
 [linkedin]: https://www.linkedin.com/in/mayesha-rashid-9aa2171ab/
