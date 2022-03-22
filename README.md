@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh University of Engineering and Technology. I'm a competitive programming enthusiast. Trying out learning different languages and hope to find my field of interest.
+I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh University of Engineering and Technology.
 
 
 ## Languages
