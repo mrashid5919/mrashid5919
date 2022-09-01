@@ -9,9 +9,12 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Oracle]
 
 ## Tools
 
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)<br />
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)<br />
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-000000?style=flat&logo=codeblocks)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![Atom](https://img.shields.io/badge/-Atom-000000?style=flat&logo=atom)
