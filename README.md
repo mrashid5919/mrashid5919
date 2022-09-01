@@ -18,7 +18,8 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-000000?style=flat&logo=codeblocks)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![Atom](https://img.shields.io/badge/-Atom-000000?style=flat&logo=atom)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)<br />
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visualstudiocode)<br />
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word) 
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 
