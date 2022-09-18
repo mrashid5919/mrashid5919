@@ -2,9 +2,6 @@
 
 I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh University of Engineering and Technology.
 
-![](https://visitor-badge.glitch.me/badge?page_id=mrashid5919.mrashid5919)
-
-
 ## Languages
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
