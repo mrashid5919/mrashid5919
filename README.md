@@ -43,7 +43,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 [<img align="left" alt="Mayesha Rashid | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Mayesha Rashid | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
-[website]: https://github.com/mrashid5919
+[website]: https://www.stopstalk.com/user/profile/mrashid_5919
 [youtube]: https://www.youtube.com/channel/UCJf7gqkFDqzYsMufdnh3I8g
 [codeforces]: https://codeforces.com/profile/rashidmayesha
 [linkedin]: https://www.linkedin.com/in/mayesha-rashid-9aa2171ab/
