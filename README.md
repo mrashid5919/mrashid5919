@@ -10,6 +10,12 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
+## Frameworks
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/express.js-%23404d59?style=flat&logo=express) 
+</br>
+![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle)
+
 ## Tools
 
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)<br />
@@ -21,15 +27,9 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word) 
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 
-## Frameworks
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/express.js-%23404d59?style=flat&logo=express) 
-</br>
-![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle)
-
 ## Profile Overview
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrashid5919&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)<br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrashid5919&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrashid5919&count_private=true&langs_count=10&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Programming Performances
