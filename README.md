@@ -8,6 +8,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
 ## Tools
 
@@ -19,6 +20,12 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visualstudiocode)<br />
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word) 
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
+
+## Frameworks
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/express.js-%23404d59?style=flat&logo=express) 
+</br>
+![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle)
 
 ## Profile Overview
 
