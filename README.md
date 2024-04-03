@@ -57,6 +57,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 | Toph | [mrashid_5919](https://toph.co/u/mrashid_5919) | 53 |
 | CSES | [mrashid_5919](https://cses.fi/user/28842) | 35 |
 | LightOJ | [mrashid_5919](https://lightoj.com/user/mrashid_5919) | 19 | 
+| Timus | [mrashid_5919](https://acm.timus.ru/author.aspx?id=339091) | 19 |
 | HackerRank | [mayesha1599](https://www.hackerrank.com/profile/mayesha1599) | 17 |
 | Kattis | [mrashid5919](https://open.kattis.com/users/mrashid5919) | 13 |
 | SPOJ | [mrashid_5919](https://www.spoj.com/users/mrashid_5919/) | 5 | 
