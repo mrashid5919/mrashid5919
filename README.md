@@ -46,6 +46,25 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 | <img width="120px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Facebook_Hacker_Cup.png" /> <br />Meta Hacker Cup |  -  | Round 2 <br /> Rank: 2826/6789 | Round 2 <br /> Rank: 2870/5047 | Round 2 <br /> Rank: 3266/6193 |
 | <img width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DoufguaX-CBfO4_O07P6E_t9jSd-1uNDqm8sbk0JjQnG8unILMPY9ZnfigoXohiF8A&usqp=CAU" /> <br />CF Max Rank|  1307 <br /> ![](https://img.shields.io/badge/-Pupil-brightgreen?style=flat)  |  1424 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1551 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1561 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |
 
+## Problem Solving Stats
+
+
+| OJ | Username | Solve Count |
+| -- | -------- | ----------- |
+| Codeforces | [mrashid_5919](https://codeforces.com/profile/mrashid_5919) | 1128 |
+| AtCoder | [mrashid_5919](https://atcoder.jp/users/mrashid_5919) | 286 |
+| CodeChef | [mrashid_5919](https://www.codechef.com/users/mrashid_5919) | 161 |
+| Toph | [mrashid_5919](https://toph.co/u/mrashid_5919) | 53 |
+| CSES | [mrashid_5919](https://cses.fi/user/28842) | 35 |
+| LightOJ | [mrashid_5919](https://lightoj.com/user/mrashid_5919) | 19 | 
+| HackerRank | [mayesha1599](https://www.hackerrank.com/profile/mayesha1599) | 17 |
+| Kattis | [mrashid5919](https://open.kattis.com/users/mrashid5919) | 13 |
+| SPOJ | [mrashid_5919](https://www.spoj.com/users/mrashid_5919/) | 5 | 
+| UVA | [mrashid_5919](https://uhunt.onlinejudge.org/id/1138510) | 1 |
+| Vjudge | [mr_5919](https://vjudge.net/user/mr_5919) | - |
+
+Last Updated: 4 April, 2024
+
 ## Connect with me:
 
 [<img align="left" alt="Mayesha Rashid" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
