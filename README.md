@@ -59,7 +59,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 | LightOJ | [mrashid_5919](https://lightoj.com/user/mrashid_5919) | 19 | 
 | Timus | [mrashid_5919](https://acm.timus.ru/author.aspx?id=339091) | 19 |
 | HackerRank | [mayesha1599](https://www.hackerrank.com/profile/mayesha1599) | 19 |
-| LeetCode | [mrashid_5919] (https://leetcode.com/mrashid_5919) | 16 |
+| LeetCode | [mrashid_5919](https://leetcode.com/mrashid_5919) | 16 |
 | Kattis | [mrashid5919](https://open.kattis.com/users/mrashid5919) | 13 |
 | SPOJ | [mrashid_5919](https://www.spoj.com/users/mrashid_5919/) | 5 | 
 | UVA | [mrashid_5919](https://uhunt.onlinejudge.org/id/1138510) | 1 |
