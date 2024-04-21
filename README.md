@@ -51,12 +51,12 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 
 | OJ | Username | Solve Count | Max Rating |
 | -- | -------- | ----------- | ---------- |
-| Codeforces | [mrashid_5919](https://codeforces.com/profile/mrashid_5919) | 1140 | 1561 |
-| AtCoder | [mrashid_5919](https://atcoder.jp/users/mrashid_5919) | 286 | 759 |
+| Codeforces | [mrashid_5919](https://codeforces.com/profile/mrashid_5919) | 1142 | 1561 |
+| AtCoder | [mrashid_5919](https://atcoder.jp/users/mrashid_5919) | 290 | 803 |
 | CodeChef | [mrashid_5919](https://www.codechef.com/users/mrashid_5919) | 164 | 1746 |
 | Toph | [mrashid_5919](https://toph.co/u/mrashid_5919) | 53 | 1792 |
 | CSES | [mrashid_5919](https://cses.fi/user/28842) | 35 | - |
-| LeetCode | [mrashid_5919](https://leetcode.com/mrashid_5919) | 25 | - |
+| LeetCode | [mrashid_5919](https://leetcode.com/mrashid_5919) | 30 | - |
 | LightOJ | [mrashid_5919](https://lightoj.com/user/mrashid_5919) | 19 | - | 
 | Timus | [mrashid_5919](https://acm.timus.ru/author.aspx?id=339091) | 19 | - |
 | HackerRank | [mayesha1599](https://www.hackerrank.com/profile/mayesha1599) | 19 | - |
@@ -65,7 +65,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 | UVA | [mrashid_5919](https://uhunt.onlinejudge.org/id/1138510) | 1 | - |
 | Vjudge | [mr_5919](https://vjudge.net/user/mr_5919) | - | - |
 
-Last Updated: 16 April, 2024
+Last Updated: 22 April, 2024
 
 ## Connect with me:
 
