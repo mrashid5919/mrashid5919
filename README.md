@@ -37,24 +37,24 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 
 ## My Programming Performances
 
-| Competition Name|2020|2021| 2022 | 2023 |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :--: | :--: |
-| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | Dhaka Regionals Preli <br /> Team : BUET_MAD_Thugs <br /> Rank: 706/1324  | Dhaka Regionals Preli <br /> Team : BUET_Rotten_Eggs <br /> Rank: 156/1747 |  Dhaka Regionals Preli <br /> Team : BUET_cgO_nai_cpO_nai <br /> Rank: 67/1648  |  Dhaka Regionals Preli <br /> Team : BUET_NewStorm <br /> Rank: 102/2481 |
-| <img width="120px" src="https://miro.medium.com/max/700/1*h_woVX1QKCNabHosdeBIRg.png" /> <br />  Google CodeJam | - | - | Round 1 <br /> Rank: 3995 | - |
-| <img width="120px" src="https://lh3.googleusercontent.com/proxy/LZuJ0WzZcX1Ya1zMX9D5EM5pDKDRW9p_uL9ur9TcpllL-YK2aPMpColVpz-QlAyQ9BoZOx76YfeuylyIDzSYdwqBw4w_xPjmXmOzq9E39J64P_TtADaeuZoDZzFE9xHZ9guw_ImnLmQhSGbab_u3W4nXK6tpYe2Xh6EmQ2zqUTXVryIZiJmCSuwmOkXnnjSZBGMGgURV" /> <br />Google KickStart Best Rank |  -  | Rank: 1788 <br/> in Round H  | Rank: 1476 <br/> in Round F | Rank: 2105 <br/> in Farewell Round A |
-| <img width="120px" src="https://lh5.googleusercontent.com/QBCvB6fytcv69bBk06xwpU37QYoOe8fBbp50RQTKJY9U-IZJFedd_sj8EVxhWnxyPelanylpGHO1pwsbYMFzxWenqzaBtvSVmBham69z4LWu6xpILANQk-mvpC-SPrJNKsC-7dvUzw" /> <br />Google Code Jam to I/O for Women |  -  | Rank: 747 | Rank: 324 |  -   | 
-| <img width="120px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Facebook_Hacker_Cup.png" /> <br />Meta Hacker Cup |  -  | Round 2 <br /> Rank: 2826/6789 | Round 2 <br /> Rank: 2870/5047 | Round 2 <br /> Rank: 3266/6193 |
-| <img width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DoufguaX-CBfO4_O07P6E_t9jSd-1uNDqm8sbk0JjQnG8unILMPY9ZnfigoXohiF8A&usqp=CAU" /> <br />CF Max Rank|  1307 <br /> ![](https://img.shields.io/badge/-Pupil-brightgreen?style=flat)  |  1424 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1551 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1561 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |
+| Competition Name|2020|2021| 2022 | 2023 | 2024 |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :--: | :--: | :--: |
+| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | Dhaka Regionals Preli <br /> Team : BUET_MAD_Thugs <br /> Rank: 706/1324  | Dhaka Regionals Preli <br /> Team : BUET_Rotten_Eggs <br /> Rank: 156/1747 |  Dhaka Regionals Preli <br /> Team : BUET_cgO_nai_cpO_nai <br /> Rank: 67/1648  |  Dhaka Regionals Preli <br /> Team : BUET_NewStorm <br /> Rank: 102/2481 | - |
+| <img width="120px" src="https://miro.medium.com/max/700/1*h_woVX1QKCNabHosdeBIRg.png" /> <br />  Google CodeJam | - | - | Round 1 <br /> Rank: 3995 | Discontinued | Discontinued |
+| <img width="120px" src="https://lh3.googleusercontent.com/proxy/LZuJ0WzZcX1Ya1zMX9D5EM5pDKDRW9p_uL9ur9TcpllL-YK2aPMpColVpz-QlAyQ9BoZOx76YfeuylyIDzSYdwqBw4w_xPjmXmOzq9E39J64P_TtADaeuZoDZzFE9xHZ9guw_ImnLmQhSGbab_u3W4nXK6tpYe2Xh6EmQ2zqUTXVryIZiJmCSuwmOkXnnjSZBGMGgURV" /> <br />Google KickStart Best Rank |  -  | Rank: 1788 <br/> in Round H  | Rank: 1476 <br/> in Round F | Rank: 2105 <br/> in Farewell Round A | Discontinued |
+| <img width="120px" src="https://lh5.googleusercontent.com/QBCvB6fytcv69bBk06xwpU37QYoOe8fBbp50RQTKJY9U-IZJFedd_sj8EVxhWnxyPelanylpGHO1pwsbYMFzxWenqzaBtvSVmBham69z4LWu6xpILANQk-mvpC-SPrJNKsC-7dvUzw" /> <br />Google Code Jam to I/O for Women |  -  | Rank: 747 | Rank: 324 |  Discontinued   | Discontinued | 
+| <img width="120px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Facebook_Hacker_Cup.png" /> <br />Meta Hacker Cup |  -  | Round 2 <br /> Rank: 2826/6789 | Round 2 <br /> Rank: 2870/5047 | Round 2 <br /> Rank: 3266/6193 | - |
+| <img width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DoufguaX-CBfO4_O07P6E_t9jSd-1uNDqm8sbk0JjQnG8unILMPY9ZnfigoXohiF8A&usqp=CAU" /> <br />CF Max Rank|  1307 <br /> ![](https://img.shields.io/badge/-Pupil-brightgreen?style=flat)  |  1424 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1551 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1561 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1562 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |
 
 ## Problem Solving Stats
 
 
 | OJ | Username | Solve Count | Max Rating |
 | -- | -------- | ----------- | ---------- |
-| Codeforces | [mrashid_5919](https://codeforces.com/profile/mrashid_5919) | 1163 | 1561 |
+| Codeforces | [mrashid_5919](https://codeforces.com/profile/mrashid_5919) | 1163 | 1562 |
 | AtCoder | [mrashid_5919](https://atcoder.jp/users/mrashid_5919) | 294 | 803 |
 | CodeChef | [mrashid_5919](https://www.codechef.com/users/mrashid_5919) | 170 | 1760 |
-| LeetCode | [mrashid_5919](https://leetcode.com/mrashid_5919) | 76 | 1713 |
+| LeetCode | [mrashid_5919](https://leetcode.com/mrashid_5919) | 78 | 1713 |
 | Toph | [mrashid_5919](https://toph.co/u/mrashid_5919) | 54 | 1792 |
 | CSES | [mrashid_5919](https://cses.fi/user/28842) | 38 | - |
 | LightOJ | [mrashid_5919](https://lightoj.com/user/mrashid_5919) | 19 | - | 
@@ -65,7 +65,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 | UVA | [mrashid_5919](https://uhunt.onlinejudge.org/id/1138510) | 1 | - |
 | Vjudge | [mr_5919](https://vjudge.net/user/mr_5919) | - | - |
 
-Last Updated: 07 June, 2024
+Last Updated: 08 June, 2024
 
 ## Connect with me:
 
