@@ -65,7 +65,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 | UVA | [mrashid_5919](https://uhunt.onlinejudge.org/id/1138510) | 1 | - |
 | Vjudge | [mr_5919](https://vjudge.net/user/mr_5919) | - | - |
 
-Last Updated: 02 July, 2024
+Last Updated: 09 July, 2024
 
 ## Connect with me:
 
