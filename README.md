@@ -51,8 +51,8 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 
 | OJ | Username | Solve Count | Max Rating |
 | -- | -------- | ----------- | ---------- |
-| Codeforces | [mrashid_5919](https://codeforces.com/profile/mrashid_5919) | 1199 | 1562 |
-| AtCoder | [mrashid_5919](https://atcoder.jp/users/mrashid_5919) | 318 | 850 |
+| Codeforces | [mrashid_5919](https://codeforces.com/profile/mrashid_5919) | 1203 | 1562 |
+| AtCoder | [mrashid_5919](https://atcoder.jp/users/mrashid_5919) | 324 | 866 |
 | CodeChef | [mrashid_5919](https://www.codechef.com/users/mrashid_5919) | 187 | 1796 |
 | LeetCode | [mrashid_5919](https://leetcode.com/mrashid_5919) | 95 | 1713 |
 | Toph | [mrashid_5919](https://toph.co/u/mrashid_5919) | 54 | 1792 |
@@ -65,7 +65,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 | UVA | [mrashid_5919](https://uhunt.onlinejudge.org/id/1138510) | 1 | - |
 | Vjudge | [mr_5919](https://vjudge.net/user/mr_5919) | - | - |
 
-Last Updated: 13 August, 2024
+Last Updated: 20 August, 2024
 
 ## Connect with me:
 
