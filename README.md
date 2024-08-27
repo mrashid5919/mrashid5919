@@ -44,14 +44,14 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 | <img width="120px" src="https://lh3.googleusercontent.com/proxy/LZuJ0WzZcX1Ya1zMX9D5EM5pDKDRW9p_uL9ur9TcpllL-YK2aPMpColVpz-QlAyQ9BoZOx76YfeuylyIDzSYdwqBw4w_xPjmXmOzq9E39J64P_TtADaeuZoDZzFE9xHZ9guw_ImnLmQhSGbab_u3W4nXK6tpYe2Xh6EmQ2zqUTXVryIZiJmCSuwmOkXnnjSZBGMGgURV" /> <br />Google KickStart Best Rank |  -  | Rank: 1788 <br/> in Round H  | Rank: 1476 <br/> in Round F | Rank: 2105 <br/> in Farewell Round A | Discontinued |
 | <img width="120px" src="https://lh5.googleusercontent.com/QBCvB6fytcv69bBk06xwpU37QYoOe8fBbp50RQTKJY9U-IZJFedd_sj8EVxhWnxyPelanylpGHO1pwsbYMFzxWenqzaBtvSVmBham69z4LWu6xpILANQk-mvpC-SPrJNKsC-7dvUzw" /> <br />Google Code Jam to I/O for Women |  -  | Rank: 747 | Rank: 324 |  Discontinued   | Discontinued | 
 | <img width="120px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Facebook_Hacker_Cup.png" /> <br />Meta Hacker Cup |  -  | Round 2 <br /> Rank: 2826/6789 | Round 2 <br /> Rank: 2870/5047 | Round 2 <br /> Rank: 3266/6193 | - |
-| <img width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DoufguaX-CBfO4_O07P6E_t9jSd-1uNDqm8sbk0JjQnG8unILMPY9ZnfigoXohiF8A&usqp=CAU" /> <br />CF Max Rank|  1307 <br /> ![](https://img.shields.io/badge/-Pupil-brightgreen?style=flat)  |  1424 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1551 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1561 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1562 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |
+| <img width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DoufguaX-CBfO4_O07P6E_t9jSd-1uNDqm8sbk0JjQnG8unILMPY9ZnfigoXohiF8A&usqp=CAU" /> <br />CF Max Rank|  1307 <br /> ![](https://img.shields.io/badge/-Pupil-brightgreen?style=flat)  |  1424 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1551 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1561 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |  1572 <br /> ![](https://img.shields.io/badge/-Specialist-cyan?style=flat)   |
 
 ## Problem Solving Stats
 
 
 | OJ | Username | Solve Count | Max Rating |
 | -- | -------- | ----------- | ---------- |
-| Codeforces | [mrashid_5919](https://codeforces.com/profile/mrashid_5919) | 1203 | 1562 |
+| Codeforces | [mrashid_5919](https://codeforces.com/profile/mrashid_5919) | 1207 | 1572 |
 | AtCoder | [mrashid_5919](https://atcoder.jp/users/mrashid_5919) | 324 | 866 |
 | CodeChef | [mrashid_5919](https://www.codechef.com/users/mrashid_5919) | 187 | 1796 |
 | LeetCode | [mrashid_5919](https://leetcode.com/mrashid_5919) | 95 | 1713 |
@@ -65,7 +65,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 | UVA | [mrashid_5919](https://uhunt.onlinejudge.org/id/1138510) | 1 | - |
 | Vjudge | [mr_5919](https://vjudge.net/user/mr_5919) | - | - |
 
-Last Updated: 20 August, 2024
+Last Updated: 27 August, 2024
 
 ## Connect with me:
 
