@@ -34,6 +34,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrashid5919&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrashid5919&langs_count=10&hide=EJS,CSS,Shell,Gnuplot&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrashid5919&theme=midnight_purple&exclude={EJS,CSS,Shell,Gnuplot}) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrashid5919&theme=midnight_purple&exclude={EJS,CSS,Shell,Gnuplot})
 
 ## My Programming Performances
 
