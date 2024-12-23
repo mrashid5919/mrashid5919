@@ -27,8 +27,6 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visualstudiocode)<br />
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)<br />
-![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word) 
-![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 
 ## Profile Overview
 
@@ -52,8 +50,8 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 
 | OJ | Username | Solve Count | Max Rating |
 | -- | -------- | ----------- | ---------- |
-| Codeforces | [mrashid_5919](https://codeforces.com/profile/mrashid_5919) | 1237 | 1573 |
-| AtCoder | [mrashid_5919](https://atcoder.jp/users/mrashid_5919) | 339 | 912 |
+| Codeforces | [mrashid_5919](https://codeforces.com/profile/mrashid_5919) | 1245 | 1573 |
+| AtCoder | [mrashid_5919](https://atcoder.jp/users/mrashid_5919) | 342 | 912 |
 | CodeChef | [mrashid_5919](https://www.codechef.com/users/mrashid_5919) | 190 | 1820 |
 | LeetCode | [mrashid_5919](https://leetcode.com/mrashid_5919) | 95 | 1713 |
 | Toph | [mrashid_5919](https://toph.co/u/mrashid_5919) | 54 | 1792 |
@@ -66,7 +64,7 @@ I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh Universit
 | UVA | [mrashid_5919](https://uhunt.onlinejudge.org/id/1138510) | 1 | - |
 | Vjudge | [mr_5919](https://vjudge.net/user/mr_5919) | - | - |
 
-Last Updated: 09 December, 2024
+Last Updated: 23 December, 2024
 
 ## Connect with me:
 
