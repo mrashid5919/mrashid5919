@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mayesha Rashid, currently studying CSE undergraduate at Bangladesh University of Engineering and Technology.
+I'm Mayesha Rashid, a fresh CSE undergraduate from Bangladesh University of Engineering and Technology. I am currently working remotely as a Junior Software Developer at Robofication LLC.
 
 ## Languages
 
