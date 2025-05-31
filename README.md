@@ -1,18 +1,22 @@
 ### Hi there 👋
 
-I'm Mayesha Rashid, a fresh CSE graduate from Bangladesh University of Engineering and Technology. I am currently working remotely as a Junior Software Developer at Robofication LLC.
+I'm Mayesha Rashid, a fresh CSE graduate from Bangladesh University of Engineering and Technology.
 
 ## Languages
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
 
 ## Frameworks
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/express.js-%23404d59?style=flat&logo=express) 
+![Express](https://img.shields.io/badge/express.js-%23404d59?style=flat&logo=express)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
+</br>
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi)
 </br>
 ![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
@@ -21,10 +25,6 @@ I'm Mayesha Rashid, a fresh CSE graduate from Bangladesh University of Engineeri
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)<br />
-![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-000000?style=flat&logo=codeblocks)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
-![Atom](https://img.shields.io/badge/-Atom-000000?style=flat&logo=atom)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visualstudiocode)<br />
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)<br />
 
@@ -64,7 +64,7 @@ I'm Mayesha Rashid, a fresh CSE graduate from Bangladesh University of Engineeri
 | UVA | [mrashid_5919](https://uhunt.onlinejudge.org/id/1138510) | 1 | - |
 | Vjudge | [mr_5919](https://vjudge.net/user/mr_5919) | - | - |
 
-Last Updated: 28 March, 2025
+Last Updated: 31 May, 2025
 
 ## Connect with me:
 
